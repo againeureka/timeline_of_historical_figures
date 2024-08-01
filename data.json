@@ -1,0 +1,156 @@
+{
+  "title": {
+    "text": {
+      "headline": "Historical Figures Timeline",
+      "text": "A timeline of notable historical figures' birth and death dates."
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "-384",
+        "month": "7",
+        "day": "24"
+      },
+      "end_date": {
+        "year": "-322",
+        "month": "3",
+        "day": "7"
+      },
+      "text": {
+        "headline": "Aristotle",
+        "text": "Aristotle was a Greek philosopher and polymath during the Classical period in Ancient Greece."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/896px-Aristotle_Altemps_Inv8575.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/896px-Aristotle_Altemps_Inv8575.jpg",
+        "caption": "Bust of Aristotle"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1643",
+        "month": "1",
+        "day": "4"
+      },
+      "end_date": {
+        "year": "1727",
+        "month": "3",
+        "day": "31"
+      },
+      "text": {
+        "headline": "Isaac Newton",
+        "text": "Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author." },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/440px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/440px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+        "caption": "Portrait of Isaac Newton"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1756",
+        "month": "1",
+        "day": "27"
+      },
+      "end_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "5"
+      },
+      "text": {
+        "headline": "Wolfgang Amadeus Mozart",
+        "text": "Mozart was a prolific and influential composer of the Classical period."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wolfgang-amadeus-mozart_1.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wolfgang-amadeus-mozart_1.jpg",
+        "caption": "Portrait of Mozart"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1770",
+        "month": "12",
+        "day": "17"
+      },
+      "end_date": {
+        "year": "1827",
+        "month": "3",
+        "day": "26"
+      },
+      "text": {
+        "headline": "Ludwig van Beethoven",
+        "text": "Beethoven was a German composer and pianist, a crucial figure in the transition between the Classical and Romantic eras in classical music."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg",
+        "caption": "Portrait of Beethoven"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1732",
+        "month": "3",
+        "day": "31"
+      },
+      "end_date": {
+        "year": "1809",
+        "month": "5",
+        "day": "31"
+      },
+      "text": {
+        "headline": "Joseph Haydn",
+        "text": "Haydn was an Austrian composer of the Classical period, known as the 'Father of the Symphony' and 'Father of the String Quartet'."
+      },
+      "media": {
+        "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Joseph_Haydn.jpg/500px-Joseph_Haydn.jpg",
+        "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Joseph_Haydn.jpg/500px-Joseph_Haydn.jpg",
+        "caption": "Portrait of Haydn"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1879",
+        "month": "3",
+        "day": "14"
+      },
+      "end_date": {
+        "year": "1955",
+        "month": "4",
+        "day": "18"
+      },
+      "text": {
+        "headline": "Albert Einstein",
+        "text": "Einstein was a theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
+        "caption": "Portrait of Einstein"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1918",
+        "month": "5",
+        "day": "11"
+      },
+      "end_date": {
+        "year": "1988",
+        "month": "2",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Richard Feynman",
+        "text": "Feynman was an American theoretical physicist known for his work in quantum mechanics, quantum electrodynamics, and particle physics."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Richard_Feynman_1988.png/440px-Richard_Feynman_1988.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Richard_Feynman_1988.png/440px-Richard_Feynman_1988.png",
+        "caption": "Portrait of Feynman"
+      }
+    }
+  ]
+}
