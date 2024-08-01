@@ -1,8 +1,8 @@
 # Timeline of historical figures
 
 - Focusing on scientists and musicians
-- edited by J.Park
-- since August 1st, 2024
+- This project was inspired by reading the following book : http://nantalk.co.kr/page/nan_classic01.php
+- edited by J.Park, since August 1st, 2024
 
 ## Dependencies
 - Timeline JS3 (https://github.com/NUKnightLab/TimelineJS3)
